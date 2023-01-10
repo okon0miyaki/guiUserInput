@@ -2,7 +2,7 @@ package gui;
 
 import javax.swing.JOptionPane;
 
- // @author MSI
+ // @author MSI by okon0miyaki
  
 public class GUI {
 
