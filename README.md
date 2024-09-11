@@ -1,2 +1,2 @@
 # guiUserInput
-User Input tapi pake GUI
+User Input using GUI (JOptionPane)
